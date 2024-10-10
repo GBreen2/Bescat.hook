@@ -1,0 +1,71 @@
+#EXTM3U
+#EXTINF:-1 group-title="SR Bangladeshi" tvg-logo="https://i.ibb.co/N6YsQx2/20240815-181504.png",Banglavision HD
+https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/playlist.m3u8
+#EXTINF:-1 group-title="SR Bangladeshi" tvg-logo="https://i.ibb.co/pL1B7kt/20240815-181452.png",Boishakhi TV
+https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/boishakhitv-org.stream/playlist.m3u8
+#EXTINF:-1 group-title="SR News" tvg-logo="https://i.ibb.co/Hzh8T61/20240815-181437.png",Somoy Tv
+https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/playlist.m3u8
+#EXTINF:-1 group-title="SR News" tvg-logo="https://i.ibb.co/hBgYZhC/20240815-181411.png",Jamuna Tv
+https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8
+#EXTINF:-1 group-title="SR Bangladeshi" tvg-logo="https://i.ibb.co/dtkcb19/20240815-181402.png",Atn Bangla
+https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8
+#EXTINF:-1 group-title="SR Bangladeshi" tvg-logo="https://i.ibb.co/T432dfs/20240815-181328.png",Rtv
+https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rtv-sg.stream/playlist.m3u8
+#EXTINF:-1 group-title="SR Bangladeshi" tvg-logo="https://i.ibb.co/P98mF2r/20240815-181318.png",Bangla TV
+https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglatvhd.stream/playlist.m3u8
+#EXTINF:-1 group-title="JAGOBD CHANNELS" tvg-logo="https://i.ibb.co/TW3yQD9/Picsart-23-06-07-11-27-32-538.png",SOMOY TV
+https://global.ncare.live/live-orgin/somoyt000011226615544544.stream/playlist.m3u8
+#EXTINF:-1 group-title="JAGOBD CHANNELS" tvg-logo="https://i.ibb.co/cvp9cwR/Picsart-23-06-07-11-34-54-734.png",CHANNEL 24
+https://global.ncare.live/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
+#EXTINF:-1 group-title="JAGOBD CHANNELS" tvg-logo="https://i.ibb.co/D7sMcgj/Picsart-23-06-07-11-27-15-922.png",ATN BANGLA
+https://global.ncare.live/live-orgin/atnbd-8-org.stream/playlist.m3u8
+#EXTINF:-1 group-title="JAGOBD CHANNELS" tvg-logo="https://i.ibb.co/59MpX6W/Picsart-23-06-07-11-22-47-756.png",BANGLAVISION
+https://global.ncare.live/live-orgin/banglav000.stream/playlist.m3u8
+#EXTINF:-1 group-title="JAGOBD CHANNELS" tvg-logo="https://i.ibb.co/w457MWk/Picsart-23-06-07-11-22-28-998.png",BOISHAKHI TV
+https://global.ncare.live/live-orgin/boishakhitv-org.stream/playlist.m3u8
+#EXTINF:-1 group-title="JAGOBD CHANNELS" tvg-logo="https://i.ibb.co/tQtY9CG/Picsart-23-06-07-11-18-32-725.png",DBC NEWS
+https://global.ncare.live/live-orgin/dbcnews.stream/playlist.m3u8
+#EXTINF:-1 group-title="JAGOBD CHANNELS" tvg-logo="https://i.ibb.co/JmqQ6p4/Picsart-23-06-07-11-16-53-534.png",GREEN TV
+https://global.ncare.live/live-orgin/greentv.stream/playlist.m3u8
+#EXTINF:-1 group-title="JAGOBD CHANNELS" tvg-logo="https://i.ibb.co/7KyTYrM/Picsart-23-06-07-11-13-27-854.png",JAMUNA TV
+https://global.ncare.live/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8
+#EXTINF:-1 group-title="JAGOBD CHANNELS" tvg-logo="https://i.ibb.co/Tr1FsLp/Picsart-23-06-07-11-09-56-678.png",MOVIE BANGLA
+https://global.ncare.live/live-orgin/moviebanglalink2.stream/playlist.m3u8
+#EXTINF:-1 group-title="JAGOBD CHANNELS" tvg-logo="https://i.ibb.co/WfjvRsn/Picsart-23-06-07-11-07-21-738.png",MY TV
+https://global.ncare.live/live-orgin/mytv-up-off.stream/playlist.m3u8
+#EXTINF:-1 group-title="JAGOBD CHANNELS" tvg-logo="http://www.atnmusic.tv/images/logo.png",ATN MUSIC
+https://global.ncare.live/live-orgin/atnmusic.stream/playlist.m3u8
+#EXTINF:-1 group-title="JAGOBD CHANNELS" tvg-logo="https://i.ibb.co/LnTmZLD/Picsart-23-06-07-10-15-30-064.png",BANGLA TV
+https://global.ncare.live/live-orgin/banglatvhd.stream/playlist.m3u8
+#EXTINF:-1 group-title="JAGOBD CHANNELS" tvg-logo="https://i.ibb.co/0Xhj6yK/Picsart-23-06-07-10-11-58-213.png",ANANDA TV
+https://global.ncare.live/live-orgin/anandatv.stream/playlist.m3u8
+#EXTINF:-1 group-title="JAGOBD CHANNELS" tvg-logo="https://i.ibb.co/Brrvpht/Picsart-23-06-07-10-20-10-353.png",R TV
+https://global.ncare.live/live-orgin/rtv-sg.stream/playlist.m3u8
+#EXTINF:-1 group-title="JAGOBD CHANNELS" tvg-logo="https://i.ibb.co/BBhfYpX/Picsart-23-06-07-10-23-04-121.png",ASIAN TV
+https://global.ncare.live/live-orgin/asian-test-sample-ok-d.stream/playlist.m3u8
+#EXTINF:-1 group-title="JAGOBD CHANNELS" tvg-logo="https://i.ibb.co/bbYQfNr/Picsart-23-06-07-10-24-56-525.png",DEEPTO TV
+https://global.ncare.live/live-orgin/deeptotv.stream/playlist.m3u8
+#EXTINF:-1 group-title="JAGOBD CHANNELS" tvg-logo="https://i.ibb.co/QJX90Rv/logo.jpghttps://i.ibb.co/KK7Zkr7/1665000837logo.png",RAJDHANI TV
+https://global.ncare.live/live-orgin/rajdhanitv.stream/playlist.m3u8
+#EXTINF:-1 group-title="JAGOBD CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/2/2c/%E0%A6%8F%E0%A6%96%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png",EKHON TV
+https://global.ncare.live/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/globaltv.stream/live-orgin/globaltv.stream/playlist.m3u8
+#EXTINF:-1 group-title="JAGOBD CHANNELS" tvg-logo="https://www.jonmobhumimedia.com/web/images/logo/Final-Red-Logo.png",JONMOBHUMI TV
+https://global.ncare.live/live-orgin/jonmobhumitv.stream/playlist.m3u8
+#EXTINF:-1 group-title="JAGOBD CHANNELS" tvg-logo="https://colossalai.org/img/logo.svg",CLOSAL TV
+https://global.ncare.live/live-orgin/colosal.stream/playlist.m3u8
+#EXTINF:-1 group-title="JAGOBD CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/NTV_%28Bangladesh%29_logo.svg",N EUROPE
+https://global.ncare.live/live-orgin/ntvuk00332211.stream/playlist.m3u8
+#EXTINF:-1 group-title="JAGOBD CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png",NEXUS TV HD
+https://global.ncare.live/live-orgin/nexustv.stream/playlist.m3u8
+#EXTINF:-1 group-title="JAGOBD CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a6/Global_Television_Bangladesh_Logo.png",GLOBAL TV
+https://global.ncare.live/live-orgin/globaltv.stream/playlist.m3u8
+#EXTINF:-1 group-title="JAGOBD CHANNELS" tvg-logo="https://i.ibb.co/0rR6nG7/Picsart-23-06-07-10-32-27-069.png",EKUSHEY TV
+https://global.ncare.live/live-orgin/ekusheytv-8-org.stream/playlist.m3u8
+#EXTINF:-1 group-title="JAGOBD CHANNELS" tvg-logo="https://nobannotv.com/wp-content/uploads/2023/06/NOBANNOtv-10-Copy.png",NOBANNO TV
+https://global.ncare.live/live-orgin/cmtv.stream/playlist.m3u8
+#EXTINF:-1 group-title="SR Entertainment" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11970-j9luk5ag-v1/imageContent-11970-j9luk5ag-m1.png",Zee Bangla HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/br8260j/20240803-103819.png",DISCOVERY KIDS
+https://dplus.gammacdn.workers.dev/videos/113.m3u8
+#EXTINF:-1 group-title="INFOTAINMENT CHANNELS" tvg-logo="http://i.ibb.co/j31HwYM/Picsart-23-06-28-20-15-00-522.png",ANIMAL PLANET HD
+https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
